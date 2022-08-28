@@ -1,0 +1,41 @@
+h1
+{
+    
+    text-align: center;
+    padding: 5px;   
+}
+h4
+{
+    text-align: center;
+}
+
+select
+{
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    font:bold;
+    color: black;
+    border:1px solid #ccc;
+}
+
+h2
+{
+    background-color:  rgb(94, 25, 115);
+    text-align: center;
+    padding: 10px;
+    color: black ;
+}
+body
+{
+    background-color: rgb(148, 97, 202);
+    font:bolder;
+    color: black;
+}
+td{
+    padding: 10px;
+}
+tr
+{
+    gap: 10px;
+}
